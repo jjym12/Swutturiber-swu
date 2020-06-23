@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387825984783",
+    "firebase_url": "https://swutturiber.firebaseio.com",
+    "project_id": "swutturiber",
+    "storage_bucket": "swutturiber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387825984783:android:82b15601d908a829aa4a7a",
+        "android_client_info": {
+          "package_name": "jiyou.swu.swutturiber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387825984783-lqm82gtssn4ead2k7vnm33ttksueubnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0q7bV6Bq01fkNuKcv5Sl7zXqI2Fb7qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387825984783-lqm82gtssn4ead2k7vnm33ttksueubnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.pedroSG94:AutoPermissions:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AutoPermissions-1.0.3.aar/dc493ee20a340488c472b817543e3ecd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AutoPermissions-1.0.3.aar/dc493ee20a340488c472b817543e3ecd/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pedroSG94/AutoPermissions/1.0.3/2ebf1f8c889014172e9cec70b36292fc497e4ad4/AutoPermissions-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
